@@ -65,7 +65,7 @@
                         <br><br>
                         <b>Phone :</b> +44(0) 1619554200
                         <br><br>
-                        <b>Email :</b> info@iascb.org
+                        <b>Email :</b> info@irab.org
                     </p>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 text-start">
@@ -79,7 +79,7 @@
 
           <div class="text-center p-4 mt-4" style="background-color: rgba(0, 0, 0, 0.2);">
             © 2020 Copyright:
-            <a class="text-white" href="#!">Abyo</a>
+            <a class="text-white" href="#!">irab</a>
           </div>
 
         </footer>
